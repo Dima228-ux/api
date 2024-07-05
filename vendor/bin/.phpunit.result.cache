@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ApiTest::test_say":7,"ApiTest::testAddUser":8,"ApiTest::testInsertUser":5},"times":{"ApiTest::test_say":0.01,"ApiTest::testAddUser":0.042,"ApiTest::testGetGroup":0.041,"ApiTest::testGetUserGroup":0.027,"ApiTest::testInsertUser":0.032}}
